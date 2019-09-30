@@ -1,12 +1,12 @@
 # Website settings
-url: "https://donfung.github.io/"
+url: "https://catievitella.github.io/"
 baseurl: ""
 
 # Internal nav
 nav:
   main:
-    projects: "/projects"
-    dbf_2019: "dbf_2019"
+    projects: "projects"
+    dbf2019: "dbf 2019"
 
 # Bio settings
 name: "Catie Vitella"
