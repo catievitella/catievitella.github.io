@@ -1,6 +1,6 @@
 # Catie Vitella Home Page
 
-This is the code for my [homepage](https://catievitella.github.io/). Repo is forked from [Rand Xie's repo](https://github.com/randxie), and originally taken from [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
+This is the code for my [homepage](https://catievitella.github.io/). Repo is forked from [Rand Xie's repo](https://github.com/randxie), and was originally taken from [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
 
 ## License
 
