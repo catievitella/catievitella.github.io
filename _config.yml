@@ -6,7 +6,7 @@ baseurl: ""
 nav:
   main:
     projects: "/projects"
-#    reading: "/reading"
+    dbf_2019: "dbf_2019"
 
 # Bio settings
 name: "Catie Vitella"
