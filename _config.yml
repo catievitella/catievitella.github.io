@@ -5,8 +5,10 @@ baseurl: ""
 # Internal nav
 nav:
   main:
+    dbf2020: "/dbf2020"
+    dbf2019: "/dbf2019"
     projects: "/projects"
-#    reading: "/reading"
+    
 
 # Bio settings
 name: "Catie Vitella"
