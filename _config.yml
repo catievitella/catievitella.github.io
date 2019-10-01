@@ -1,5 +1,5 @@
 # Website settings
-url: "https://donfung.github.io/"
+url: "https://catievitella.github.io/"
 baseurl: ""
 
 # Internal nav
@@ -9,24 +9,20 @@ nav:
 #    reading: "/reading"
 
 # Bio settings
-name: "Don Fung"
-description: "The home page of Don Fung."
-thumbnail_path: "profile-photos/donfung_profile.jpg"
+name: "Catie Vitella"
+description: "The home page of Catie Vitella."
+thumbnail_path: "profile-photos/catievitella_profile.jpg"
 
 # URLs
 contact_urls:
   linkedin:
-    url: "https://www.linkedin.com/in/don-fung-3099b111a/"
+    url: "https://www.linkedin.com/in/catie-vitella/"
     label: "LinkedIn"
     icon: "linkedin-square"
-  github:
-    url: "https://github.com/donfung"
-    label: "GitHub"
-    icon: "github-square"
   email:
-    url: "mailto:donovanfung@gmail.com"
+    url: "mailto:catievitella@gmail.com"
     label: "Email"
-    value: "donovanfung@gmail.com"
+    value: "catievitella@gmail.com"
     icon: "envelope-square"
 
 # Jekyll build settings
@@ -41,7 +37,7 @@ timezone: 'America/Los_Angeles'
 markdown: kramdown
 
 disqus:
-  shortname: donfung
+  shortname: catievitella
 
 # Plugins (GitHub Pages only support a few)
 gems:
