@@ -1,5 +1,6 @@
-- name: "AIAA Design, Build, Fly 2016"
-  date: "2016"
+- name: "AIAA Design, Build, Fly 2019-2020"
+  date: "2019-2020"
   description: |
-    <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. I lead UCLA's DBF team in the design and sizing of the propulsion and actuator systems for our RC aircrafts. 
+    <a href="https://www.aiaa.org/dbf" target="_blank"> AIAA DBF </a> is an RC aircraft design competition. I am currently the Computer Aided Desing Lead, meaning I oversee all of our Computer Aided Design, design many components of the aircraft, instruct new members in SolidWorks software, and finalize the CAD drawings package for the final design report.  
   image: "dbf2020.jpg"
+  
