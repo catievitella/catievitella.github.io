@@ -14,3 +14,19 @@
     <p class="left-align">{{ include.dbf2020.description }}</p>
   </div>
 </div>
+
+#second entry--maybe?
+<div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %} border-bottom border-light-gray circle-line {% endunless %}">
+  <div class="col sm-col-4 px2 mb2">
+    <!-- <a href="{{ include.dbf2020.url }}" target="_blank"> -->
+      {% capture image_path %}dbf2020/{{ include.dbf2020.image }}{% endcapture %}
+      {% include image.html path=image_path alt=include.dbf2020.name %}
+    <!-- </a> --> 
+    
+  </div>
+  <div class="col sm-col-8 px2">
+    <a href="{{  }}" target="_blank" name="{{ include.dbf2020.name | downcase | replace:' ','-' | remove:',' }}"><{{ dbf2020_title_element }} class="mt0 mb0">{{ include.dbf2020.name }}</{{ dbf2020_title_element }}></a>
+    <a href="{{  }}" target="_blank" class="block h6 mb2">{{  }}</a>
+    <p class="left-align">{{ include.dbf2020.description }}</p>
+  </div>
+</div>
